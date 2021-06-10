@@ -1,6 +1,6 @@
 # PT3_E012_User_Uploaded_Images
 
-# Design Time Images
+# User Uploaded Images
 
 PeopleTools Tech Tips    
 Randy Groncki	2021-06-03
@@ -13,7 +13,7 @@ Randy Groncki	2021-06-03
 
 ### Walkthrough Documentation: See PDF
 
-### YouTube demo: (In Progress)
+### YouTube demo: https://youtu.be/AY0Cmc_ORpg
 
 This file contains all the objects referenced in the video and document.
 
