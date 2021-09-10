@@ -1,4 +1,4 @@
-# PT3_E012_User_Uploaded_Images
+# PT3 E012 User Uploaded Images
 
 # User Uploaded Images
 
